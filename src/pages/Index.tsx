@@ -392,6 +392,7 @@ const Index = () => {
         </section>
         
         {/* CTA Section */}
+        {/*
         <section className="bg-gradient-to-r from-colink-blue to-colink-purple py-16">
           <div className="container-wide">
             <div className="max-w-3xl mx-auto text-center text-white">
@@ -412,6 +413,8 @@ const Index = () => {
             </div>
           </div>
         </section>
+        */}
+        
       </main>
       <Footer />
     </div>
