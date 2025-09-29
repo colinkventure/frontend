@@ -137,7 +137,7 @@ const SponsorshipsLanding = () => {
             <div className="max-w-3xl mx-auto text-center mb-16">
               <h2 className="text-3xl font-bold text-colink-navy mb-4">SPONSORSHIPS</h2>
               <p className="text-xl text-colink-teal mb-6">Dedicating everything to Brand Sponsorships</p>
-              <p className="text-gray-600">
+              <p className="text-xl text-gray-600">
                 At CoLink Venture, we recongize how vital sponsorship is for sports, entertainment m adn noprofit organizations. By patnering with individuals, businesses, and corporations, these organizations can improve their events and make a positive impact in their communities.
               </p>
             </div>
